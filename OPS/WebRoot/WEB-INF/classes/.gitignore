@@ -1,9 +1,0 @@
-/META-INF
-/config.properties
-/ehcache.xml
-/log4j.properties
-/ops
-/spring-ehcache.xml
-/spring-hibernate.xml
-/spring-tasks.xml
-/spring.xml
