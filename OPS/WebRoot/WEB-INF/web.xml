@@ -25,10 +25,16 @@
   </filter-mapping>
   <!-- 配置监听器类ContextLoaderListener -->	
   <listener>
+  	<!-- spring3.2.3配置 -->
+    <!-- <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class> -->
+    <!-- spring4.3.2配置 -->
     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
   </listener>
   <!-- 配置监听器类IntrospectorCleanupListener -->
   <listener>
+  	<!-- spring3.2.3配置 -->
+    <!--<listener-class>org.springframework.web.util.IntrospectorCleanupListener</listener-class>-->
+    <!-- spring4.3.2配置 -->
     <listener-class>org.springframework.web.util.IntrospectorCleanupListener</listener-class>
   </listener>
   <!-- 配置Spring Servlet -->
