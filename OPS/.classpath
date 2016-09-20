@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.5.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat8.0.36/servlet-api.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
